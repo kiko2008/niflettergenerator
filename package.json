@@ -1,5 +1,5 @@
 {
-  "name": "niflettergenerator",
+  "name": "niflettergen",
   "version": "1.0.0",
   "description": "Generate letter for a nif number",
   "main": "index.js",

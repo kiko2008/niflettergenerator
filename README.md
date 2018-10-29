@@ -1,15 +1,14 @@
-# niflettergenerator
+# niflettergen
 
-Moduelo de npm que genera la letra de un numero de identificacion fiscal.
+Modulo de npm que genera la letra de un numero de identificacion fiscal.
 
 Para utilizarlo solo tenemos que instalar el paquete en nuestro proyecto:
 ```bash
-npm i niflettergenerator
-
+npm i niflettergen
 ```
 
-Para utilizarlo en nuestro proyecto solo tenemos requerir el modulo y llamar a la funcion generate:
+Posteriormente requeriremos el modulo y llamaremos a la funcion generate:
 ```bash
-npm i niflettergenerator
-
+const letterGenerator = require('niflettergen');
+console.log(letterGenerator.generate(2267887));
 ```
