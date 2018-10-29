@@ -1,0 +1,19 @@
+{
+  "name": "niflettergenerator",
+  "version": "1.0.0",
+  "description": "Generate letter for a nif number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiko2008/niflettergenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiko2008/niflettergenerator/issues"
+  },
+  "homepage": "https://github.com/kiko2008/niflettergenerator#readme"
+}
